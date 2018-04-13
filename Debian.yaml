@@ -1,4 +1,4 @@
---
+---
 apache:
   packagename: 'apache2'
   configsource: 'puppet:///modules/apache/apache2.conf'
