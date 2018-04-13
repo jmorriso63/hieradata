@@ -1,4 +1,4 @@
---
+---
 apache:
   packagename: 'httpd'
   configsource: 'puppet:///modules/apache/httpd.conf'
